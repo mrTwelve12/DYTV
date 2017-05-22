@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		855476F51ED2CEFA002ECC33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855476F41ED2CEFA002ECC33 /* AppDelegate.swift */; };
-		855476F71ED2CEFA002ECC33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855476F61ED2CEFA002ECC33 /* ViewController.swift */; };
-		855476FA1ED2CEFA002ECC33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 855476F81ED2CEFA002ECC33 /* Main.storyboard */; };
-		855476FC1ED2CEFA002ECC33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 855476FB1ED2CEFA002ECC33 /* Assets.xcassets */; };
-		855476FF1ED2CEFA002ECC33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 855476FD1ED2CEFA002ECC33 /* LaunchScreen.storyboard */; };
+		855477131ED2CF98002ECC33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855477121ED2CF98002ECC33 /* AppDelegate.swift */; };
+		855477151ED2CF98002ECC33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855477141ED2CF98002ECC33 /* ViewController.swift */; };
+		855477181ED2CF98002ECC33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 855477161ED2CF98002ECC33 /* Main.storyboard */; };
+		8554771A1ED2CF98002ECC33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 855477191ED2CF98002ECC33 /* Assets.xcassets */; };
+		8554771D1ED2CF98002ECC33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8554771B1ED2CF98002ECC33 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		855476F11ED2CEFA002ECC33 /* DYTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DYTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		855476F41ED2CEFA002ECC33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		855476F61ED2CEFA002ECC33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		855476F91ED2CEFA002ECC33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		855476FB1ED2CEFA002ECC33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		855476FE1ED2CEFA002ECC33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		855477001ED2CEFA002ECC33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8554770F1ED2CF98002ECC33 /* DYTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DYTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		855477121ED2CF98002ECC33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		855477141ED2CF98002ECC33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		855477171ED2CF98002ECC33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		855477191ED2CF98002ECC33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8554771C1ED2CF98002ECC33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8554771E1ED2CF98002ECC33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		855476EE1ED2CEF9002ECC33 /* Frameworks */ = {
+		8554770C1ED2CF98002ECC33 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,31 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		855476E81ED2CEF9002ECC33 = {
+		855477061ED2CF98002ECC33 = {
 			isa = PBXGroup;
 			children = (
-				855476F31ED2CEFA002ECC33 /* DYTV */,
-				855476F21ED2CEFA002ECC33 /* Products */,
+				855477111ED2CF98002ECC33 /* DYTV */,
+				855477101ED2CF98002ECC33 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		855476F21ED2CEFA002ECC33 /* Products */ = {
+		855477101ED2CF98002ECC33 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				855476F11ED2CEFA002ECC33 /* DYTV.app */,
+				8554770F1ED2CF98002ECC33 /* DYTV.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		855476F31ED2CEFA002ECC33 /* DYTV */ = {
+		855477111ED2CF98002ECC33 /* DYTV */ = {
 			isa = PBXGroup;
 			children = (
-				855476F41ED2CEFA002ECC33 /* AppDelegate.swift */,
-				855476F61ED2CEFA002ECC33 /* ViewController.swift */,
-				855476F81ED2CEFA002ECC33 /* Main.storyboard */,
-				855476FB1ED2CEFA002ECC33 /* Assets.xcassets */,
-				855476FD1ED2CEFA002ECC33 /* LaunchScreen.storyboard */,
-				855477001ED2CEFA002ECC33 /* Info.plist */,
+				855477121ED2CF98002ECC33 /* AppDelegate.swift */,
+				855477141ED2CF98002ECC33 /* ViewController.swift */,
+				855477161ED2CF98002ECC33 /* Main.storyboard */,
+				855477191ED2CF98002ECC33 /* Assets.xcassets */,
+				8554771B1ED2CF98002ECC33 /* LaunchScreen.storyboard */,
+				8554771E1ED2CF98002ECC33 /* Info.plist */,
 			);
 			path = DYTV;
 			sourceTree = "<group>";
@@ -67,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		855476F01ED2CEF9002ECC33 /* DYTV */ = {
+		8554770E1ED2CF98002ECC33 /* DYTV */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 855477031ED2CEFA002ECC33 /* Build configuration list for PBXNativeTarget "DYTV" */;
+			buildConfigurationList = 855477211ED2CF98002ECC33 /* Build configuration list for PBXNativeTarget "DYTV" */;
 			buildPhases = (
-				855476ED1ED2CEF9002ECC33 /* Sources */,
-				855476EE1ED2CEF9002ECC33 /* Frameworks */,
-				855476EF1ED2CEF9002ECC33 /* Resources */,
+				8554770B1ED2CF98002ECC33 /* Sources */,
+				8554770C1ED2CF98002ECC33 /* Frameworks */,
+				8554770D1ED2CF98002ECC33 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -81,26 +81,26 @@
 			);
 			name = DYTV;
 			productName = DYTV;
-			productReference = 855476F11ED2CEFA002ECC33 /* DYTV.app */;
+			productReference = 8554770F1ED2CF98002ECC33 /* DYTV.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		855476E91ED2CEF9002ECC33 /* Project object */ = {
+		855477071ED2CF98002ECC33 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = Power;
 				TargetAttributes = {
-					855476F01ED2CEF9002ECC33 = {
+					8554770E1ED2CF98002ECC33 = {
 						CreatedOnToolsVersion = 8.3.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 855476EC1ED2CEF9002ECC33 /* Build configuration list for PBXProject "DYTV" */;
+			buildConfigurationList = 8554770A1ED2CF98002ECC33 /* Build configuration list for PBXProject "DYTV" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 855476E81ED2CEF9002ECC33;
-			productRefGroup = 855476F21ED2CEFA002ECC33 /* Products */;
+			mainGroup = 855477061ED2CF98002ECC33;
+			productRefGroup = 855477101ED2CF98002ECC33 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				855476F01ED2CEF9002ECC33 /* DYTV */,
+				8554770E1ED2CF98002ECC33 /* DYTV */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		855476EF1ED2CEF9002ECC33 /* Resources */ = {
+		8554770D1ED2CF98002ECC33 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				855476FF1ED2CEFA002ECC33 /* LaunchScreen.storyboard in Resources */,
-				855476FC1ED2CEFA002ECC33 /* Assets.xcassets in Resources */,
-				855476FA1ED2CEFA002ECC33 /* Main.storyboard in Resources */,
+				8554771D1ED2CF98002ECC33 /* LaunchScreen.storyboard in Resources */,
+				8554771A1ED2CF98002ECC33 /* Assets.xcassets in Resources */,
+				855477181ED2CF98002ECC33 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		855476ED1ED2CEF9002ECC33 /* Sources */ = {
+		8554770B1ED2CF98002ECC33 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				855476F71ED2CEFA002ECC33 /* ViewController.swift in Sources */,
-				855476F51ED2CEFA002ECC33 /* AppDelegate.swift in Sources */,
+				855477151ED2CF98002ECC33 /* ViewController.swift in Sources */,
+				855477131ED2CF98002ECC33 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		855476F81ED2CEFA002ECC33 /* Main.storyboard */ = {
+		855477161ED2CF98002ECC33 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				855476F91ED2CEFA002ECC33 /* Base */,
+				855477171ED2CF98002ECC33 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		855476FD1ED2CEFA002ECC33 /* LaunchScreen.storyboard */ = {
+		8554771B1ED2CF98002ECC33 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				855476FE1ED2CEFA002ECC33 /* Base */,
+				8554771C1ED2CF98002ECC33 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		855477011ED2CEFA002ECC33 /* Debug */ = {
+		8554771F1ED2CF98002ECC33 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -210,11 +210,10 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		855477021ED2CEFA002ECC33 /* Release */ = {
+		855477201ED2CF98002ECC33 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -253,12 +252,11 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		855477041ED2CEFA002ECC33 /* Debug */ = {
+		855477221ED2CF98002ECC33 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -270,7 +268,7 @@
 			};
 			name = Debug;
 		};
-		855477051ED2CEFA002ECC33 /* Release */ = {
+		855477231ED2CF98002ECC33 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -285,24 +283,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		855476EC1ED2CEF9002ECC33 /* Build configuration list for PBXProject "DYTV" */ = {
+		8554770A1ED2CF98002ECC33 /* Build configuration list for PBXProject "DYTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				855477011ED2CEFA002ECC33 /* Debug */,
-				855477021ED2CEFA002ECC33 /* Release */,
+				8554771F1ED2CF98002ECC33 /* Debug */,
+				855477201ED2CF98002ECC33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		855477031ED2CEFA002ECC33 /* Build configuration list for PBXNativeTarget "DYTV" */ = {
+		855477211ED2CF98002ECC33 /* Build configuration list for PBXNativeTarget "DYTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				855477041ED2CEFA002ECC33 /* Debug */,
-				855477051ED2CEFA002ECC33 /* Release */,
+				855477221ED2CF98002ECC33 /* Debug */,
+				855477231ED2CF98002ECC33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 855476E91ED2CEF9002ECC33 /* Project object */;
+	rootObject = 855477071ED2CF98002ECC33 /* Project object */;
 }
